@@ -10,7 +10,7 @@ Official portfolio online : https://kenzchiro.github.io
 
 - 🔭 I’m currently working on Data Engineer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiro&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzch1r0&show_icons=true&theme=dracula)
 <!--
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
