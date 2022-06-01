@@ -6,15 +6,15 @@ IN LOVE WITH INTEGRATING CODE AND DESIGN
 - 🔭 I’m currently working as a Consultant
 - 🌱 I’m currently learning Go and Vue.js
 
-Official portfolio online : https://kenzch1r0.github.io
+Official portfolio online : https://kenzchiiro.github.io
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiro&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiiro&show_icons=true&theme=dracula)
 <!--
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 <!--
-**kenzchiro/kenzchiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kenzchiiro/kenzchiiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
