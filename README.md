@@ -8,7 +8,7 @@ IN LOVE WITH INTEGRATING CODE AND DESIGN
 
 Official portfolio online : https://kenzch1r0.github.io
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzch1r0&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiro&show_icons=true&theme=dracula)
 <!--
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
