@@ -3,7 +3,7 @@
 A SOFTWARE CONSULTANT  
 IN LOVE WITH INTEGRATING CODE AND DESIGN
 
-- 🔭 I’m currently working as a Consultant
+- 🔭 I’m currently working as a Software Consultant
 - 🌱 I’m currently learning Go and Vue.js
 
 Official portfolio online : https://kenzchiiro.github.io
