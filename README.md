@@ -6,6 +6,8 @@ IN LOVE WITH INTEGRATING CODE AND DESIGN
 - 🔭 I’m currently working as a Software Consultant
 - 🌱 I’m currently using Go and Vue.js
 
+Official portfolio online : https://kenzchiiro.github.io
+
 <h3>Things I code with ...</h3>
 
 | <img src="https://user-images.githubusercontent.com/85181504/206159923-4991ed69-a631-4ffd-9976-94b32bbc2cf3.svg" width="360"> | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiiro&show_icons=true&theme=dracula) |
@@ -58,8 +60,6 @@ alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&
     <p>
     <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
    </p> -->
-
-Official portfolio online : https://kenzchiiro.github.io
 
 <!--
 All inbuilt themes :-
