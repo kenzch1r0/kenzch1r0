@@ -1,10 +1,10 @@
 ### Hi, I'm Ken
 
-A SOFTWARE CONSULTANT  
+A SOFTWARE ENGINEER  
 IN LOVE WITH INTEGRATING CODE AND DESIGN
 
-- 🔭 I’m currently working as a Software Consultant
-- 🌱 I’m currently using Go and Vue.js
+- 🔭 I’m currently working as a Software Engineer
+- 🌱 I’m currently using Go
 
 Official portfolio online : https://kenzchiiro.github.io
 
